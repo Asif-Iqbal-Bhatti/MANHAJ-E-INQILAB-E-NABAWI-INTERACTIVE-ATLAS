@@ -29,13 +29,13 @@ The page is one self-contained `index.html` with no external requests. To view i
 
 This atlas is a beginning, not a conclusion. Much more remains to be mapped, translated, checked and argued over, and we warmly invite contributions from scholars, students, historians and readers everywhere, Muslim and non Muslim alike. The Quran does not address a tribe or a nation; it speaks again and again to *al-nas*, to humankind, and it describes the Prophet ﷺ in these words:
 
-> وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ
+> وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ
 >
 > "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (Surah al-Anbiya' 21:107, Sahih International)
 
 European thought has long tried to read a direction into history. Hegel saw history as reason unfolding through conflict, a movement later popularized, more by his interpreters than by himself, as thesis, antithesis and synthesis. Marx turned that dialectic toward economics; Spengler described civilizations rising and decaying like living organisms; Toynbee traced their fate to how they answer challenge; and Fukuyama, after the Cold War, announced that liberal democracy marked the end of history. Each of these readings captures something real about the political, social and economic condition of humankind, and each leaves the deepest question open: if history is moving, toward what kind of justice, and measured by whose balance? The Quran gives its own answer, that the purpose of revelation is a just order among people:
 
-> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌۭ شَدِيدٌۭ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ
 >
 > "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allah may make evident those who support Him and His messengers unseen. Indeed, Allah is Powerful and Exalted in Might." (Surah al-Hadid 57:25, Sahih International)
 
