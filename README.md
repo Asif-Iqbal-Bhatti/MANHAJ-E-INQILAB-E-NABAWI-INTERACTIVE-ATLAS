@@ -86,6 +86,16 @@ Dr. Israr Ahmed las onze tijd in dit licht. Volgens zijn interpretatie hebben de
 Credits and production: **AIB_EM2R**.
 Claude Opus 5.5 model was used to fine tune the animation and this atlas.
 
+### Acknowledgement
+
+**English.** All praise and thanks are due to Allah, who gave me this idea and the opportunity to contribute an interactive version of Dr. Israr Ahmed's work and to share it with the whole world in English, French and Dutch. This is only a start; more readers and keen intellectuals are needed to carry it forward, and none of it is possible without the help of Allah. And Allah knows best.
+
+**Français.** Toute louange et toute gratitude reviennent à Allah, qui m’a donné cette idée et l’occasion de contribuer à une version interactive de l’œuvre du Dr Israr Ahmed et de la diffuser au monde entier en anglais, en français et en néerlandais. Ce n’est qu’un début ; il faut davantage de lecteurs et d’intellectuels passionnés pour la poursuivre, et rien de tout cela n’est possible sans l’aide d’Allah. Et Allah est le plus savant.
+
+**Nederlands.** Alle lof en dank komen Allah toe, die mij dit idee en de gelegenheid gaf om bij te dragen aan een interactieve versie van het werk van Dr. Israr Ahmed en die met de hele wereld te delen in het Engels, het Frans en het Nederlands. Dit is slechts een begin; er zijn meer lezers en betrokken intellectuelen nodig om het verder te brengen, en niets hiervan is mogelijk zonder de hulp van Allah. En Allah weet het best.
+
+<p align="center"><b>وَٱللَّهُ أَعْلَمُ</b><br><i>And Allah knows best</i></p>
+
 ## License
 
 Content is CC BY 4.0 and code is MIT; see `LICENSE`. The fonts, the Quran text and translation, and the Natural Earth data keep their own terms.
