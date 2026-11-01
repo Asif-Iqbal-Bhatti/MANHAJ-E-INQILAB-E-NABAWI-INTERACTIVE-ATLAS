@@ -841,7 +841,7 @@ function init() {
     else if (e.key === ' ') { playing ? stopPlay() : startPlay(); e.preventDefault(); }
     else if (e.key === '+' || e.key === '=') zoomAt(1.4); else if (e.key === '-') zoomAt(1 / 1.4);
   });
-  if (window.innerWidth < 1600) $('#layers').removeAttribute('open');
+  if (window.innerWidth < 1800) $('#layers').removeAttribute('open');
   const e0 = EVENTS[0]; setCam(e0.at[0], e0.at[1], e0.zoom); eraIdx = eraFor(e0.y); applyLayers();
   renderList(); renderDetail(); renderTrack();
   route();
