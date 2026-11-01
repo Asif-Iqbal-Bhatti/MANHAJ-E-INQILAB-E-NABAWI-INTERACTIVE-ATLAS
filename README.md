@@ -25,6 +25,22 @@ The page is one self-contained `index.html` with no external requests. To view i
 - **Maps:** coastlines, rivers and lakes are from Natural Earth (public domain). Frontiers, routes and some historical sites are approximate reconstructions.
 - **Fonts:** Amiri, Inter and Cinzel, under the SIL Open Font License 1.1 (see `fonts/`).
 
+## An invitation: the work is unfinished
+
+This atlas is a beginning, not a conclusion. Much more remains to be mapped, translated, checked and argued over, and we warmly invite contributions from scholars, students, historians and readers everywhere, Muslim and non Muslim alike. The Quran does not address a tribe or a nation; it speaks again and again to *al-nas*, to humankind, and it describes the Prophet ﷺ in these words:
+
+> وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ
+>
+> "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (Surah al-Anbiya' 21:107, Sahih International)
+
+European thought has long tried to read a direction into history. Hegel saw history as reason unfolding through conflict, a movement later popularized, more by his interpreters than by himself, as thesis, antithesis and synthesis. Marx turned that dialectic toward economics; Spengler described civilizations rising and decaying like living organisms; Toynbee traced their fate to how they answer challenge; and Fukuyama, after the Cold War, announced that liberal democracy marked the end of history. Each of these readings captures something real about the political, social and economic condition of humankind, and each leaves the deepest question open: if history is moving, toward what kind of justice, and measured by whose balance? The Quran gives its own answer, that the purpose of revelation is a just order among people:
+
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+>
+> "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allah may make evident those who support Him and His messengers unseen. Indeed, Allah is Powerful and Exalted in Might." (Surah al-Hadid 57:25, Sahih International)
+
+Dr. Israr Ahmed read our age in this light. In his interpretation, the great experiments of modern history, each claiming to perfect the human condition, have prepared the ground for a final phase. In that phase the Deen will be established as a just system, Nizam-e-Adl, serving every human being and not only Muslims, and it will be reached by the method of the Prophet ﷺ himself. He linked this hope to the Prophetic report that a man from the Prophet's household "will fill the earth with equity and justice just as it was filled with injustice and oppression" (Sunan Abi Dawud 4282, narrated by 'Abdullah ibn Mas'ud; graded hasan sahih by al-Albani). One may accept or contest that reading of history. But no serious mind can ignore a book that has, for fourteen centuries, claimed to hold the balance by which justice is weighed. We invite you, whatever your faith or your doubts, to test that claim the only honest way: by opening the Quran and reading it for yourself.
+
 ## Credits
 
 Credits and production: **AIB_EM2R**.
