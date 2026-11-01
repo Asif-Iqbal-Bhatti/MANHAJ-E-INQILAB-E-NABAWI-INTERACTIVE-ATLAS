@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Manhaj Atlas app icon</title>
+  <defs>
+    <mask id="icon-knock" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+      <rect width="512" height="512" fill="#fff"/>
+      <g fill="#000" stroke="none">
+        <path d="M256.0 84.0L306.4 134.4L377.6 134.4L377.6 205.6L428.0 256.0L377.6 306.4L377.6 377.6L306.4 377.6L256.0 428.0L205.6 377.6L134.4 377.6L134.4 306.4L84.0 256.0L134.4 205.6L134.4 134.4L205.6 134.4Z" fill="none" stroke="#000" stroke-width="5" stroke-linejoin="miter"/>
+        <circle cx="256" cy="154" r="11.5"/>
+        <rect x="138" y="166" width="236" height="15" rx="7.5"/>
+        <rect x="248.5" y="170" width="15" height="172"/>
+        <path d="M200 362H312L294 336H218Z"/>
+        <path d="M150 174L112 264M150 174L188 264M362 174L324 264M362 174L400 264" fill="none" stroke="#000" stroke-width="9" stroke-linecap="round"/>
+        <path d="M104 264H196A46 30 0 0 1 104 264Z"/>
+        <path d="M316 264H408A46 30 0 0 1 316 264Z"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="512" height="512" rx="113" fill="#06101e"/>
+  <g transform="translate(256 256) scale(0.94) translate(-256 -256)">
+    <g id="atlas-mark">
+      <path fill="#e8c26a" stroke="none" mask="url(#icon-knock)" d="M256 56L314.6 114.6L397.4 114.6L397.4 197.4L456 256L397.4 314.6L397.4 397.4L314.6 397.4L256 456L197.4 397.4L114.6 397.4L114.6 314.6L56 256L114.6 197.4L114.6 114.6L197.4 114.6Z"/>
+    </g>
+  </g>
+</svg>

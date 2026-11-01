@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo-horizontal.svg" alt="Manhaj-e-Inqilab-e-Nabawi Interactive Atlas" width="620"></p>
+
 # Manhaj-e-Inqilab-e-Nabawi ﷺ · Interactive Atlas
 
 An interactive companion to Dr. Israr Ahmed's book *Manhaj-e-Inqilab-e-Nabawi* (the Prophetic method of revolution), read alongside the works of Maulana Abul A'la Mawdudi, the Quran and the authentic hadith.
@@ -25,6 +27,7 @@ The page is one self-contained `index.html` with no external requests. To view i
 - **Quran:** Arabic is the Tanzil Uthmani text via api.alquran.cloud, with pause signs omitted. English is Sahih International; verses with light edits are labelled "adapted".
 - **Hadith:** given with collection and number (Sahih al-Bukhari, Sahih Muslim). Reports from Ibn Ishaq's Sirah are labelled as such.
 - **Maps:** coastlines, rivers and lakes are from Natural Earth (public domain). Frontiers, routes and some historical sites are approximate reconstructions.
+- **Logo:** vector brand files and icons are in `assets/` (see `assets/README.md`).
 - **Fonts:** Amiri, Inter and Cinzel, under the SIL Open Font License 1.1 (see `fonts/`).
 
 ## An invitation
