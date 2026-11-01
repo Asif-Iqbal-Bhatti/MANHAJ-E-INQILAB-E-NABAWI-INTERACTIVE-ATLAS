@@ -29,3 +29,7 @@ The page is one self-contained `index.html` with no external requests. To view i
 
 Credits and production: **AIB_EM2R**.
 Claude Opus 5.5 model was used to fine tune the animation and this atlas.
+
+## License
+
+Content is CC BY 4.0 and code is MIT; see `LICENSE`. The fonts, the Quran text and translation, and the Natural Earth data keep their own terms.
